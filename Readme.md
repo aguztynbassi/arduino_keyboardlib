@@ -16,6 +16,7 @@ Supported layouts:
 * de_de
 * en_us (default)
 * es_es
+* es_la
 * fi_fi
 * fr_fr
 * it_it
@@ -50,6 +51,7 @@ You can use:
 * kbd_it_it
 * kbd_pt_pt
 * kbd_tr_tr
+* kbd_es_la
 
 If none is especified en_us is used by default.
 
@@ -57,9 +59,10 @@ Version History
 ===============
 ```
 (Date format: DD/MM/YYYY)
-* 28/8/2017 Correct how to configure at Readme.md
-* 8/7/2017  Fix backslash problem in es_es.h
-* 14/6/2017 First commit
+* 10/03/2024 Create kbd es_la for Latin American
+* 28/08/2017 Correct how to configure at Readme.md
+* 08/07/2017  Fix backslash problem in es_es.h
+* 14/06/2017 First commit
 
 ```
 

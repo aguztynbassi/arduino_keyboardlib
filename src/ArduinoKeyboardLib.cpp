@@ -42,6 +42,9 @@
 #ifdef kbd_es_es
 #include "es_es.h"
 #endif
+#ifdef kbd_es_la
+#include "es_la.h"
+#endif
 #ifdef kbd_fi_fi
 #include "fi_fi.h"
 #endif
